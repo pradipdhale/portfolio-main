@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolio-main/static/css/main.24090c63.css",
+    "main.js": "/portfolio-main/static/js/main.5da4a8ce.js",
+    "static/media/PRADIP DHALE UPDATED RESUME (1).pdf": "/portfolio-main/static/media/PRADIP DHALE UPDATED RESUME (1).c370732e7f3266c9c305.pdf",
+    "static/media/me.jpg": "/portfolio-main/static/media/me.9a3518d11236b2eb97f7.jpg",
+    "index.html": "/portfolio-main/index.html",
+    "main.24090c63.css.map": "/portfolio-main/static/css/main.24090c63.css.map",
+    "main.5da4a8ce.js.map": "/portfolio-main/static/js/main.5da4a8ce.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.24090c63.css",
+    "static/js/main.5da4a8ce.js"
+  ]
+}
